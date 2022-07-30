@@ -4,17 +4,17 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: pavel.oropeza@me.com
+  github: doncafe
+  #  linkedin: johndoe
   phone: 
   gitlab: 
   twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Italian
+    #- idiom: French
 
 education:
   - degree: MSc in Informatics
@@ -50,7 +50,7 @@ profile: |
 # Experience
 experience:
   - role: Software Engineer
-    time: 2020-Present
+    time: 2022-Present
     company: Google
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
@@ -62,8 +62,8 @@ experience:
       Go, Angular, Typescript, C++
   
   - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+    time: 2017-2022
+    company: UNAM
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
